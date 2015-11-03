@@ -10,7 +10,7 @@ A little Chrome extension to kill the brand new Like Button (argh, i really hate
 ## Install
 
 This is a chrome extension, duh.
-Just type 'chrome://extensions/' on your navigation bar, press enter, drop the .CRX file in that window and press some ok buttons.
+Download .CRX file (right button, save as) and just type 'chrome://extensions/' on your navigation bar, press enter, drop the .CRX file in that window, press some ok buttons.
 
  - "But where do i get that .CRX file?"
   - Argh, from [here](https://github.com/vlntdds/BringBackFavStar/releases/download/v0.1/bringbackfav.crx).
