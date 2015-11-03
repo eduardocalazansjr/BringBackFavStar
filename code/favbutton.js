@@ -1,0 +1,1 @@
+document.getElementById("doc").onmousemove=function(){var b=document.getElementsByClassName("HeartAnimation"),a;for(a=0;a<b.length;a++)b[a].className="Icon Icon--favorite"};document.getElementById("doc").onclick=function(){var b=document.getElementsByClassName("HeartAnimation"),a;for(a=0;a<b.length;a++)b[a].className="Icon Icon--favorite"};

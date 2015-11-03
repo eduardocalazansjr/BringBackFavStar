@@ -1,0 +1,3 @@
+.ProfileTweet-action--favorite.withHeartIcon .ProfileTweet-actionButton:hover,.ProfileTweet-action--favorite.withHeartIcon .ProfileTweet-actionButton:focus,.ProfileTweet-action--favorite.withHeartIcon .ProfileTweet-actionCount:hover,.ProfileTweet-action--favorite.withHeartIcon .ProfileTweet-actionCount:focus,.favorited .ProfileTweet-action--favorite .Icon--heart,.favorited .ProfileTweet-action--favorite.withHeartIcon .ProfileTweet-actionButtonUndo {
+    color: #ffac33 !important
+}
